@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+h1{
+	color: black;
+	font-size: 150%;
+	text-shadow: 10px;
+}
+.navbar{
+border: none;
+background-color: black;
+color: rgb(139, 128, 23);
+}
+body{
+	background-color: rgb(139, 128, 23);
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:rgb(139, 128, 23); 
+	text-align: center;
+	margin-right: 10px;
+	
+}
+.texth{
+	margin-bottom: 50px;
+}
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: rgb(139, 128, 23);
+}
+#myNavbar ul :hover {
+	color : white;
+}
+.navbar-brand{
+margin-top: 15px;
+font-size: 30px;	
+}
